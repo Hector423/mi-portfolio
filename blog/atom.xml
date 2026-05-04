@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Hector423.github.io/mi-portfolio/blog</id>
     <title>Héctor | Mi portfolio Blog</title>
@@ -6,6 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Hector423.github.io/mi-portfolio/blog"/>
     <subtitle>Héctor | Mi portfolio Blog</subtitle>
+    <icon>https://Hector423.github.io/mi-portfolio/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://Hector423.github.io/mi-portfolio/blog/welcome</id>
