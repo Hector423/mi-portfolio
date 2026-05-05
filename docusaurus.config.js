@@ -6,15 +6,10 @@ const config = {
   title: 'Héctor | Mi portfolio',
   tagline: 'Writeups de Ciberseguridad',
   favicon: 'img/favicon.ico',
-
   url: 'https://Hector423.github.io',
-  // La barra final es fundamental para GitHub Pages
   baseUrl: '/mi-portfolio/',
-
   organizationName: 'Hector423', 
   projectName: 'mi-portfolio', 
-
-  // Cambiamos a 'warn' para que no aborte el despliegue si hay algún link roto
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
